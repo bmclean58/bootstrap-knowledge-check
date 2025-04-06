@@ -11,7 +11,7 @@ The table features striped and hoverable rows. Data is
 included to simulate registration form submissions. 
 Table is responsive to screen size using table-responsive.
 
-The first image of my puppied is made responsive with the 
+The first image of my puppies is made responsive with the 
 img-fluid class. The second image of Justin Jefferson is made 
 circular using rounded-circle.
 
